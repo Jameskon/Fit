@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>nickname</key>
+		<string>平卧推举</string>
+		<key>picturename</key>
+		<string>aa.gif</string>
+		<key>bigpicturename</key>
+		<string>aa1.jpg</string>
+		<key>briefly</key>
+		<string>重点部位 胸大肌,辅助肌三角肌,肱三头肌</string>
+		<key>content</key>
+		<string>	 起始姿势：仰卧长凳 将杠铃放在乳头上方。
+	 动作过程：将杠铃垂直上举至两臂完全伸直，胸肌彻底收缩，静止一秒钟，慢慢下落。
+	 呼吸方法：上举时吸气，下落时呼气。注意要点上举时背部，臀部要平贴凳面，两脚用劲下踏。
+</string>
+	</dict>
+	<dict>
+		<key>nickname</key>
+		<string>上斜卧推举</string>
+		<key>picturename</key>
+		<string>bb.gif</string>
+		<key>bigpicturename</key>
+		<string>bb1.jpg</string>
+		<key>briefly</key>
+		<string>主要部位: 胸大肌上部，三角肌前束和肱三头肌。</string>
+		<key>content</key>
+		<string>	 起始姿势：头朝上斜卧长凳30-45度 , 两手正握杠铃置于胸部上方
+	 动作过程：把杠铃垂直上举至两臂完全伸直，静止一秒钟，慢慢下落徐徐至原位。
+	 呼吸方法：上举时吸气，静止时呼气。徐徐下落时吸气，落到原位时呼气。</string>
+	</dict>
+	<dict>
+		<key>nickname</key>
+		<string>下斜卧推举</string>
+		<key>picturename</key>
+		<string>cc.gif</string>
+		<key>bigpicturename</key>
+		<string>cc1.jpg</string>
+		<key>briefly</key>
+		<string>主要部位: 胸大肌外侧翼下部及下缘沟</string>
+		<key>content</key>
+		<string>	 起始姿势：头朝下斜卧长凳, 两手正握杠铃置于胸部下方。
+	 动作过程：把杠铃垂直上举至两臂完全伸直，静止一秒钟，慢慢下落徐徐至原位。
+	 呼吸方法：上举时吸气，静止时呼气。徐徐下落时吸气，落到原位时呼气。</string>
+	</dict>
+	<dict>
+		<key>nickname</key>
+		<string>仰卧飞鸟</string>
+		<key>picturename</key>
+		<string>dd.gif</string>
+		<key>bigpicturename</key>
+		<string>dd1.jpg</string>
+		<key>briefly</key>
+		<string>主要部位: 胸大肌和三角肌</string>
+		<key>content</key>
+		<string>	 起始姿势：仰卧长凳上，两手拳心相对，持哑铃;两臂向上直伸与地面垂直，两脚平踏地面。
+	 动作过程：两手向两侧分开下落，两肘微屈，直到不能更低时止。静止一秒钟，让胸大肌完全伸展，然后将两臂从两侧向上，回合到开始位置。
+	 呼吸方法：两臂拉开时吸气，回复时呼气。
+	 注意要点：两手不要紧握。分臂时，背部肌肉要收紧。意念集中在胸大肌的收缩和伸展上。</string>
+	</dict>
+	<dict>
+		<key>nickname</key>
+		<string>哑铃仰握曲臂上提</string>
+		<key>picturename</key>
+		<string>ee.gif</string>
+		<key>bigpicturename</key>
+		<string>ee1.jpg</string>
+		<key>briefly</key>
+		<string>重点部位:胸部和三头肌</string>
+		<key>content</key>
+		<string>	 起始姿势：仰卧长凳上 , 两手正握哑铃或杠铃，两臂直伸，与地面平行。两脚平踏在地面或长凳上。
+	 动作过程：两臂保持平伸，把哑铃或杠铃向上向后拉，并下落到可能的最低点。静止一秒钟，让胸大肌尽量拉伸。然后，收缩胸大肌，把两臂拉向上，拉向前，直至下落到腿侧开始位置。
+	 呼吸方法：向上向后拉时吸气，向上向前回复时呼气。
+	 注意要点：后拉时，让两臂充分向后直伸，前拉时，让两臂充分向前直伸。该动作也可两手并握一较重的哑铃来做，因两手握距较狭，重量集中在杠中央，对发展胸大肌靠人体中线的边沿部分有较大作用。</string>
+	</dict>
+	<dict>
+		<key>nickname</key>
+		<string>双杠双臂屈伸</string>
+		<key>picturename</key>
+		<string>ff.gif</string>
+		<key>bigpicturename</key>
+		<string>ff1.jpg</string>
+		<key>briefly</key>
+		<string>重点锻炼部位：主要是胸大肌下部，其次是肱三头肌和三角肌</string>
+		<key>content</key>
+		<string>	 开始位置：双杆间距最好宽于肩，双手握杠成直臂支撑、挺胸、收腹，两腿伸直并拢放松呈下垂状。
+	 动作过程：呼气，屈肘弯臂，身体下降，直至两臂弯曲降低到最低位置时，头部应向前引，两肘外展，使胸大肌充分拉长伸展。随即吸气，以胸大肌突然收缩力撑两臂，使身体上升直至两臂完全伸直；当上臂超过杆水平位置时，臀部稍向后缩，躯干呈“低头含胸”的姿势。两臂伸直时，胸大肌处于彻底收紧状态。重复练习。
+	 训练要点：动作要缓慢进行，不要借身体的振摆助力完成动作；撑起时速度要快、挺胸、抬头、收腹、不耸肩；为加大训练强度可在腰间负重练习。</string>
+	</dict>
+	<dict>
+		<key>nickname</key>
+		<string>上斜哑铃卧推</string>
+		<key>picturename</key>
+		<string>gg.gif</string>
+		<key>bigpicturename</key>
+		<string>gg1.jpg</string>
+		<key>briefly</key>
+		<string>重点部位：胸大肌上部，其次是三角肌前束和肱三头肌。</string>
+		<key>content</key>
+		<string>	 开始位置：仰卧在上斜角度为35-45度的卧推凳上。
+	 动作过程：两臂伸直持哑铃位于肩的上部。放下至胸部上方（接近锁骨处）时吸气。下降至最低处时，即做上推动作，上推时呼气。
+	 训练要点：练习过程将主要力量集中在胸大肌上，使胸肌始终处于紧张状态。肱三头肌作为次要的补充力量。</string>
+	</dict>
+	<dict>
+		<key>nickname</key>
+		<string>上斜哑铃飞鸟</string>
+		<key>picturename</key>
+		<string>hh.gif</string>
+		<key>bigpicturename</key>
+		<string>hh1.jpg</string>
+		<key>briefly</key>
+		<string>重点锻炼部位：上胸和三角肌</string>
+		<key>content</key>
+		<string>	 开始位置：仰卧在斜的卧推凳上，两手各持哑铃，掌心相对，推起至两臂伸直。
+	 动作过程：两手持哑铃平行地向两侧落下，手肘稍微弯屈，哑铃落下至感到胸部两侧肌肉有充分的拉伸感。当哑铃落下时，要深深吸气。持铃循原路举起回原位时呼气。
+	 训练要点：如果哑铃向两侧落下时，两臂如呈伸直状态，胸部肌肉便很难得到拉伸和肌肉收缩的感觉。</string>
+	</dict>
+	<dict>
+		<key>nickname</key>
+		<string>双臂侧下拉夹胸</string>
+		<key>picturename</key>
+		<string>ii.gif</string>
+		<key>bigpicturename</key>
+		<string>ii1.jpg</string>
+		<key>briefly</key>
+		<string>重点锻炼部位：主要健美胸大肌和三角肌。握把相碰的位置高，健美的是上胸部；握把的位置在中部或下部，健美的是中胸部或下胸部肌群</string>
+		<key>content</key>
+		<string>	 开始位置：两脚开立，与肩同宽，身体站在拉力器的下方，两臂侧上举，肘关节稍微弯曲，两手心向下分别握住拉力器的各一端把柄。重心方向应该由上向下成45度角。（不小于30度角）。
+	 动作过程：吸气，上体稍前倾，两臂由上往下斜线用力夹至胸前呈交叉状，直至两拉力器把柄相碰。稍停2-4秒，然后再呼气，缓慢还原。重复练习。
+	 训练要点：上体始终保持稍前倾，不准前后摆动助力；要充分伸展胸肌，动作需缓慢而有节奏地进行；完成动作时两臂均衡用力，防止猛拉或突然性还原动作。</string>
+	</dict>
+	<dict>
+		<key>nickname</key>
+		<string>后蹲</string>
+		<key>picturename</key>
+		<string>jj.gif</string>
+		<key>bigpicturename</key>
+		<string>jj1.jpg</string>
+		<key>briefly</key>
+		<string>主要部位: 大腿肌群、臀大肌、腿筋和下背肌群</string>
+		<key>content</key>
+		<string>	 后蹲起始姿势：站在深蹲架前，屈膝，两手握住深蹲架上的杠铃并担负在颈后肩上。向前走两步，两脚开立，略宽于肩，足趾稍向外撇，身体伸直。
+	 动作过程：屈膝下蹲到大腿上面和地面平行或稍低，静止一秒钟，大腿和臀部用力使两脚蹬地，使身体回复到直立。按规定次数和组数重复再做。完成后，退回几步，把杠铃放回深蹲架上。
+	 呼吸方法：下蹲时呼气，起立时吸气。
+	 注意要点：在做整个动作的过程中，背部要平直，上体勿前倾，臀部不要后突，后腰要下塌，动作要稳定。腿部快伸直时，用力挺直膝关节。</string>
+	</dict>
+</array>
+</plist>
